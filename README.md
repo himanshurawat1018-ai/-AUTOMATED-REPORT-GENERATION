@@ -37,3 +37,4 @@ fpdf: External library for PDF creation and formatting.
 Acknowledgements and Credits: This project was developed using documentation and community examples from the official Python website and the PyFPDF documentation. Additional understanding and troubleshooting were supported by educational content on YouTube, and significant technical guidance was provided by OpenAI’s ChatGPT, which helped in code debugging, output validation, and improving report structure. This project showcases how even small scripts can have real utility when they combine multiple tasks — data ingestion, processing, and output generation. With simple enhancements, it can be expanded to include visual analytics, email delivery of reports, or integration with web-based dashboards.
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/d4f9cd9c-899f-46da-96a2-9d082716c7df)
